@@ -1,0 +1,1 @@
+rtodd3principles: AllPrinciplesExemplar.o AllPrinciplesNonExamples.o
