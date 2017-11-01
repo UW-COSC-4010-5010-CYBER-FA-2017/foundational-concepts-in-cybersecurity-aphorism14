@@ -55,4 +55,8 @@ else
 }
 ```
 
+Related Image:
+
+"Smaug minimized his attack surface and now I have to try and hit a tiny gap on his chest...."
+
 ![](https://github.com/UW-COSC-4010-5010-CYBER-FA-2017/foundational-concepts-in-cybersecurity-aphorism14/blob/master/Principle%2010/maxresdefault.jpg)
